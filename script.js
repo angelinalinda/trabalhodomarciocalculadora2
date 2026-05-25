@@ -93,4 +93,8 @@ botaoLimpar.addEventListener("click", limpar)
 
   document.querySelector(".gorjeta-total > strong").innerHTML = "R$ 0.00"
   document.querySelector(".total > strong").innerHTML = "R$ 0.00"
+
+  conta = 0
+  porcentagem = 0
+  pessoas = 0
 }
